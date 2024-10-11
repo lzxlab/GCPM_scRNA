@@ -1,2 +1,2 @@
 # GCPM_scRNA
-The code of paper "Single-cell transcriptome profiling elucidates the cellular determinants of immunotherapy response in gastric cancer peritoneal metastasis"
+The code of paper "CAF‒macrophage crosstalk in tumor microenvironments governs the response to immune checkpoint blockade in gastric cancer peritoneal metastases"
